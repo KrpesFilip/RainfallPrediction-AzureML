@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\bin\Debug\net8.0-windows\RainPredictorApp.exe
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\bin\Debug\net8.0-windows\RainPredictorApp.deps.json
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\bin\Debug\net8.0-windows\RainPredictorApp.runtimeconfig.json
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\bin\Debug\net8.0-windows\RainPredictorApp.dll
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\bin\Debug\net8.0-windows\RainPredictorApp.pdb
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.AssemblyInfo.cs
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.dll
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\refint\RainPredictorApp.dll
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.pdb
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.genruntimeconfig.cache
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\ref\RainPredictorApp.dll
+C:\Users\filip\source\repos\RainPredictorApp\RainPredictorApp\obj\Debug\net8.0-windows\RainPredictorApp.Form1.resources
